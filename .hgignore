@@ -1,0 +1,8 @@
+syntax: glob
+*.out
+*.swp*
+*.fastq
+*.fasta
+*.bak
+
+syntax: regexp
