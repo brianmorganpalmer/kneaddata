@@ -1,0 +1,10 @@
+syntax: glob
+*.out
+*.swp*
+*.fastq
+*.fasta
+*.bak
+*.pyc
+*.npy
+
+syntax: regexp
