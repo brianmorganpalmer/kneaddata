@@ -1,0 +1,18 @@
+syntax: glob
+*.out
+*.swp*
+*.fastq
+*.fasta
+*.bak
+*.pyc
+*.npy
+*.csv
+*.pdf
+*.ipynb
+*.xlsx
+*.sam
+*.html
+*.emf
+tags
+
+syntax: regexp
